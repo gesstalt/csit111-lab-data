@@ -1,0 +1,11 @@
+{
+    "tender_id": "DS-LAB-2026",
+    "usd_to_inr_rate": 83.50,
+    "bids": [
+        {"vendor": "TechPro India", "currency": "INR", "amount": 445000},
+        {"vendor": "Global Compute", "currency": "USD", "amount": 5100},
+        {"vendor": "AI Workstations Pvt Ltd", "currency": "INR", "amount": 428000},
+        {"vendor": "Silicon Systems", "currency": "USD", "amount": 5350},
+        {"vendor": "DataLab Solutions", "currency": "INR", "amount": 435000}
+    ]
+}
