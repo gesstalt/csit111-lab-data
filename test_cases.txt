@@ -1,0 +1,5 @@
+4
+INV-001, TechCorp India, 50000
+INV-002, Sharma Suppliers, 1250
+INV-003, Local Stationers, 450
+INV-004, Data Systems Pvt Ltd, 8900
