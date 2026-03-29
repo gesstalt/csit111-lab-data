@@ -1,0 +1,14 @@
+[
+    {
+        "id": "H-101",
+        "vendor": "Gupta Electronics",
+        "amount": 45000.00,
+        "tax_compliant": true
+    },
+    {
+        "id": "H-102",
+        "vendor": "Office World",
+        "amount": 1200.50,
+        "tax_compliant": false
+    }
+]
