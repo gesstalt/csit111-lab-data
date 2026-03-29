@@ -1,0 +1,7 @@
+{
+    "dataset_name": "HISAB_Invoices",
+    "version": "1.2",
+    "total_records": 5000,
+    "is_verified": true,
+    "allowed_currencies": ["INR", "USD"]
+}
