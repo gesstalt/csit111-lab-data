@@ -1,0 +1,3 @@
+Hello world!
+This is a sample text file for our Python class.
+Data science requires good file handling skills.
