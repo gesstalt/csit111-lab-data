@@ -1,2 +1,2 @@
-walter	melon	melon@email.msmary.edu	555-3141
-john	doe	jdoe@email.msmary.edu	555-1234
+kedar	joshi	k.joshi@college.edu.in	9876-5432
+anjali	deshmukh	a.deshmukh@college.edu.in	8765-4321
